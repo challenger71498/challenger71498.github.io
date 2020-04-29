@@ -255,8 +255,8 @@ jekyll-archives:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 
 # HTML Compression
