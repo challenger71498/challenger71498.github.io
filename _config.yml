@@ -96,8 +96,8 @@ author:
   name             : "Min Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Wassup guys"
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, Repulic of Korea"
+  email            : "challenger71498@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -110,13 +110,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/parang714"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/challenger71498"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/minseokoh0417"
 
 # Site Footer
 footer:
