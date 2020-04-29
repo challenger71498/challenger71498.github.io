@@ -249,11 +249,9 @@ tag_archive:
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
-    - categories
-    - tags
+    all
   layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
+    archive-taxonomy
   permalinks:
     tag: '/tag/:name/'
     category: '/category/:name/'
