@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "Unity"
     url: /unity/
+  - title: "Collections"
+    url: /collections/
     
 breadcrumbs: true # disabled by default
