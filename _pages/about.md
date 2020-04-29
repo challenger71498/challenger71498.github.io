@@ -6,3 +6,4 @@ defaults:
 	  values:
 		layout: single
 		author_profile: true
+
