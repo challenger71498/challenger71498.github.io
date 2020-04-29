@@ -61,20 +61,25 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
+$custom-dark-blue-gray: #1B262C !default;
+$custom-blue: #0F4C81 !default;
+$custom-red-pink: #ED6663 !default;
+$custom-orange-yellow: #FFA372 !default;
+
 $background-color: #fff !default;
-$code-background-color: #fafafa !default;
-$code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
-$muted-text-color: mix(#fff, $text-color, 20%) !default;
-$border-color: $lighter-gray !default;
+$code-background-color: #1e1e1e !default;
+$code-background-color-dark: $111 !default;
+$text-color: $fff !default;
+$muted-text-color: mix(#000, $text-color, 20%) !default;
+$border-color: #111 !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
 $primary-color: #6f777d !default;
 $success-color: #3fa63f !default;
-$warning-color: #d67f05 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #3b9cba !default;
+$warning-color: #ffa372 !default;
+$danger-color: #ed6663 !default;
+$info-color: #4ea7f5 !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
