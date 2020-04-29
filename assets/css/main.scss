@@ -6,6 +6,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-$background-color : #1E1E1E;
-$body-color : #00CC7A;
