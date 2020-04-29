@@ -19,22 +19,39 @@ $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 /* neon syntax highlighting (base16) */
-$base00: #1e1e1e !default;
-$base01: #262626 !default;
-$base02: #333333 !default;
-$base03: #444444 !default;
-$base04: #ffffff !default;
-$base05: #ffffff !default;
-$base06: #eeeeee !default;
-$base07: #dddddd !default;
-$base08: #569cd6 !default;
-$base09: #569cd6 !default;
-$base0a: #4ac6ad !default;
-$base0b: #d69d85 !default;
-$base0c: #1faaaa !default;
-$base0d: #dcdcaa !default;
-$base0e: #569cd6 !default;
-$base0f: #ffffff !default;
+//$base00: #1e1e1e !default; // Default Background
+//$base01: #262626 !default; // Lighter Background (Used for status bars)
+//$base02: #333333 !default; // Selection Background
+//$base03: #444444 !default; // Comments, Invisibles, Line Highlighting
+//$base04: #ffffff !default; // Dark Foreground (Used for status bars)
+//$base05: #ffffff !default; // Default Foreground, Caret, Delimiters, Operators
+//$base06: #eeeeee !default; // Light Foreground (Not often used)
+//$base07: #dddddd !default; // Light BackGround (Not often used)
+//$base08: #569cd6 !default; // Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+//$base09: #569cd6 !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
+//$base0a: #4ac6ad !default; // Classes, Markup Bold, Search Text Background
+//$base0b: #d69d85 !default; // Strings, Inherited Class, Markup Code, Diff Inserted
+//$base0c: #1faaaa !default; // Support, REgular Expressions, Escape Characters, Ma
+//$base0d: #dcdcaa !default; // Functions, Methods, Attribute IDs, Headings
+//$base0e: #569cd6 !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed
+//$base0f: #ffffff !default; // Deprecated, Opening / Closing Embedded Language Tags, e.g. <? php ?>
+$base00: #000 !default; // Default Background
+$base01: #f00 !default; // Lighter Background (Used for status bars)
+$base02: #0f0 !default; // Selection Background
+$base03: #00f !default; // Comments, Invisibles, Line Highlighting
+$base04: #ff0 !default; // Dark Foreground (Used for status bars)
+$base05: #f0f !default; // Default Foreground, Caret, Delimiters, Operators
+$base06: #0ff !default; // Light Foreground (Not often used)
+$base07: #fff !default; // Light BackGround (Not often used)
+$base08: #569cd6 !default; // Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+$base09: #569cd6 !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
+$base0a: #4ac6ad !default; // Classes, Markup Bold, Search Text Background
+$base0b: #d69d85 !default; // Strings, Inherited Class, Markup Code, Diff Inserted
+$base0c: #1faaaa !default; // Support, REgular Expressions, Escape Characters, Ma
+$base0d: #dcdcaa !default; // Functions, Methods, Attribute IDs, Headings
+$base0e: #569cd6 !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed
+$base0f: #ffffff !default; // Deprecated, Opening / Closing Embedded Language Tags, e.g. <? php ?>
+
 
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
