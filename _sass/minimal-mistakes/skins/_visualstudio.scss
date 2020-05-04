@@ -23,26 +23,18 @@ $base00: #262626 !default; // Default Background                                
 $base01: #1e1e1e !default; // Lighter Background (Used for status bars)                                //
 $base02: #333333 !default; // Selection Background
 $base03: #444444 !default; // Comments, Invisibles, Line Highlighting
-$base04: #aaaaaa !default; // Dark Foreground (Used for status bars)                                   // Comments
+$base04: #57a64a !default; // Dark Foreground (Used for status bars)                                   // Comments
 $base05: #eeeeee !default; // Default Foreground, Caret, Delimiters, Operators                         // Code
 $base06: #dddddd !default; // Light Foreground (Not often used)
 $base07: #dddddd !default; // Light BackGround (Not often used)                                        // Selected
-//$base08: #569cd6 !default; // Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
-//$base09: #569cd6 !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
-//$base0a: #4ac6ad !default; // Classes, Markup Bold, Search Text Background
-//$base0b: #d69d85 !default; // Strings, Inherited Class, Markup Code, Diff Inserted
-//$base0c: #1faaaa !default; // Support, REgular Expressions, Escape Characters, Ma
-//$base0d: #dcdcaa !default; // Functions, Methods, Attribute IDs, Headings
-//$base0e: #569cd6 !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed
-//$base0f: #ffffff !default; // Deprecated, Opening / Closing Embedded Language Tags, e.g. <? php ?>
-$base08: #000 !default; // Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
-$base09: #f00 !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
-$base0a: #0f0 !default; // Classes, Markup Bold, Search Text Background
-$base0b: #00f !default; // Strings, Inherited Class, Markup Code, Diff Inserted
-$base0c: #ff0 !default; // Support, REgular Expressions, Escape Characters, Ma
-$base0d: #f0f !default; // Functions, Methods, Attribute IDs, Headings
-$base0e: #0ff !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed
-$base0f: #fff !default; // Deprecated, Opening / Closing Embedded Language Tags, e.g. <? php ?>
+$base08: #ffffff !default; // Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted        // Hashtags
+$base09: #b5cea8 !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url            // Numeric constants
+$base0a: #4ec9b0 !default; // Classes, Markup Bold, Search Text Background                             // Classes
+$base0b: #d69d85 !default; // Strings, Inherited Class, Markup Code, Diff Inserted                     // String constants
+$base0c: #ffffff !default; // Support, REgular Expressions, Escape Characters, Ma                      
+$base0d: #dcdcaa !default; // Functions, Methods, Attribute IDs, Headings                              // functions
+$base0e: #569cd6 !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed                 // keywords
+$base0f: #ffffff !default; // Deprecated, Opening / Closing Embedded Language Tags, e.g. <? php ?>
 
 
 .author__urls.social-icons .svg-inline--fa,
