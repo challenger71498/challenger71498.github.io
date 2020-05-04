@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Unity"
-    url: /unity/
+    url: /categories/unity
   - title: "Collections"
     url: /collections/
     
