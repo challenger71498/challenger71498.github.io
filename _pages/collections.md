@@ -1,5 +1,5 @@
 ---
 permalink: /collections/
-layout: collections
+layout: archive
 author_profile: true
 ---
