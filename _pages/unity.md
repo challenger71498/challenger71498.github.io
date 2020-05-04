@@ -1,8 +1,8 @@
 ---
 title: Unity
-layout: collection
-permalink: /unity/
-collection: unity
+layout: category
+permalink: /categories/unity
+taxonomy: unity
 entries_layout: grid
 classes: wide
 ---
