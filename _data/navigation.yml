@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /about
   - title: "Unity"
-    url: /categories/unity
-  - title: "Collections"
-    url: /collections/
+    url: /unity
+  - title: "Categories"
+    url: /categories
     
 breadcrumbs: true # disabled by default
