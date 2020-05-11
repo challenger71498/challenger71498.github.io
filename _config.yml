@@ -141,7 +141,7 @@ footer:
       # url:
 
 
-# Reading Files
+# Reading Files 
 include:
   - .htaccess
   - _pages
