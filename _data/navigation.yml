@@ -4,6 +4,8 @@ main:
     url: /about
   - title: "Unity"
     url: /unity
+  - title: "Gadgets"
+    url: /gadgets
   - title: "Categories"
     url: /categories
     

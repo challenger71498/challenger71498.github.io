@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 header:
   overlay_image: /assets/images/about-header.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.5
 author_profile: true
 ---
 # 연혁
